@@ -19,7 +19,7 @@ spec:
       containers:
       - name: wisecow-app
         # Run this image
-        image: aryannigam02012000/project:latest
+        image: kalashnigam27/project:latest
 
 ---
 
