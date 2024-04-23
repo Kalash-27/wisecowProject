@@ -4,7 +4,7 @@ metadata:
   # Unique key of the Deployment instance
   name: my-wisecow-app
 spec:
-  # 3 Pods should exist at all times.
+  # 2 Pods should exist at all times.
   replicas: 2
   selector:
     matchLabels:
